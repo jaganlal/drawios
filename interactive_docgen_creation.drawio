@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Interactive Flow" id="Wp32OviOYdL-q1vHaB_I">
-    <mxGraphModel dx="3027" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
           <mxGeometry height="35" width="160" x="930" y="776" as="geometry" />
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F8F5;strokeColor=#1ABC9C;strokeWidth=2;fontSize=9;align=left;verticalAlign=top;" value="í ½í²¾ Key Design:&lt;br&gt;&lt;br&gt;Dual format storage&lt;br&gt;(hierarchical + flat)&lt;br&gt;enables flexible&lt;br&gt;retrieval patterns" vertex="1">
-          <mxGeometry height="120" width="130" x="1140" y="670" as="geometry" />
+          <mxGeometry height="120" width="130" x="1340" y="1230" as="geometry" />
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-34" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#3498DB;" target="mJ2UAQKs1bYo3PrSVbFP-25">
           <mxGeometry relative="1" as="geometry" />
@@ -296,6 +296,9 @@
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-84" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#7F8C8D;" value="marker-py â€¢ Claude 4.5&lt;br&gt;MongoDB â€¢ ChromaDB&lt;br&gt;python-docx â€¢ Voyage AI" vertex="1">
           <mxGeometry height="40" width="190" x="310" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="d0Xz0Q6tXGQRUFUr1ld3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;b&gt;Key Design:&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;Dual format storage&lt;/span&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;(hierarchical + flat)&lt;/span&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;enables flexible&lt;/span&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;retrieval patterns&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="110" x="1145" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
