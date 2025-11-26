@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Interactive Flow" id="Wp32OviOYdL-q1vHaB_I">
-    <mxGraphModel dx="1426" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,7 +262,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-76" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#2C3E50;" value="Document data flow" vertex="1">
-          <mxGeometry height="30" width="150" x="130" y="965" as="geometry" />
+          <mxGeometry height="25" width="125" x="130" y="965" as="geometry" />
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-77" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=4;strokeColor=#F39C12;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
