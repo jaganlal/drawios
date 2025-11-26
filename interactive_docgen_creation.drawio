@@ -318,11 +318,11 @@
             <mxPoint x="120" y="1015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d0Xz0Q6tXGQRUFUr1ld3-12" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#2C3E50;" value="Document data flow" vertex="1">
-          <mxGeometry height="25" width="125" x="127" y="962" as="geometry" />
+        <mxCell id="d0Xz0Q6tXGQRUFUr1ld3-12" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#2C3E50;" value="Primary/required inputs" vertex="1">
+          <mxGeometry height="25" width="125" x="127" y="966" as="geometry" />
         </mxCell>
-        <mxCell id="d0Xz0Q6tXGQRUFUr1ld3-13" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#2C3E50;" value="DSL query flow" vertex="1">
-          <mxGeometry height="30" width="93" x="127" y="997" as="geometry" />
+        <mxCell id="d0Xz0Q6tXGQRUFUr1ld3-13" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#2C3E50;" value="Secondary/optional input" vertex="1">
+          <mxGeometry height="30" width="133" x="127" y="1001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
