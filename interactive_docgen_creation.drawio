@@ -177,7 +177,7 @@
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-51" connectable="0" parent="mJ2UAQKs1bYo3PrSVbFP-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#C0392B;fontStyle=1;backgroundColor=#FFFFFF;" value="Retrieved Data&lt;br&gt;with confidence" vertex="1">
           <mxGeometry relative="1" x="-0.3" as="geometry">
-            <mxPoint x="25" y="20" as="offset" />
+            <mxPoint y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-52" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#27AE60;" target="mJ2UAQKs1bYo3PrSVbFP-43">
