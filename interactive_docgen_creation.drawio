@@ -163,17 +163,15 @@
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-46" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;fontStyle=2;fontColor=#27AE60;" value="python-docx" vertex="1">
           <mxGeometry height="15" width="160" x="2080" y="275" as="geometry" />
         </mxCell>
-        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF9E7;strokeColor=#F39C12;strokeWidth=2;fontSize=9;align=left;verticalAlign=top;" value="í ½í³‹ Process Flow:&lt;br&gt;&lt;br&gt;1. Load template&lt;br&gt;2. For each DSL query:&lt;br&gt;   Call Smart API&lt;br&gt;   Get content&lt;br&gt;   Track confidence&lt;br&gt;3. Map data to placeholders&lt;br&gt;4. Generate draft" vertex="1">
-          <mxGeometry height="160" width="180" x="1450" y="330" as="geometry" />
-        </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F8F5;strokeColor=#1ABC9C;strokeWidth=2;fontSize=9;align=center;verticalAlign=middle;" value="âœ“ Confidence tracking&lt;br&gt;at every extraction" vertex="1">
           <mxGeometry height="50" width="160" x="1870" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-50" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#E74C3C;curved=1;" target="mJ2UAQKs1bYo3PrSVbFP-43">
+        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-50" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#E74C3C;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mJ2UAQKs1bYo3PrSVbFP-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1320" y="770" />
-              <mxPoint x="1320" y="235" />
+              <mxPoint x="1360" y="770" />
+              <mxPoint x="1360" y="380" />
+              <mxPoint x="1740" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -203,7 +201,7 @@
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-58" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;fontStyle=2;fontColor=#E67E22;" value="Claude Sonnet 4.5" vertex="1">
           <mxGeometry height="15" width="180" x="1500" y="775" as="geometry" />
         </mxCell>
-        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-59" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#34495E;" value="6 Quality Metrics:&lt;br&gt;â€¢ Accuracy&lt;br&gt;â€¢ Completeness&lt;br&gt;â€¢ Consistency&lt;br&gt;â€¢ Relevance&lt;br&gt;â€¢ Clarity&lt;br&gt;â€¢ Grammar" vertex="1">
+        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-59" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#34495E;" value="&lt;b&gt;6 Quality Metrics:&lt;/b&gt;&lt;br&gt;â€¢ Accuracy&lt;br&gt;â€¢ Completeness&lt;br&gt;â€¢ Consistency&lt;br&gt;â€¢ Relevance&lt;br&gt;â€¢ Clarity&lt;br&gt;â€¢ Grammar" vertex="1">
           <mxGeometry height="80" width="160" x="1510" y="800" as="geometry" />
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=2;fontSize=12;fontStyle=1;" value="Confidence&lt;br&gt;Scorer" vertex="1">
@@ -211,9 +209,6 @@
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=2;fontSize=12;fontStyle=1;" value="Metrics&lt;br&gt;Computer" vertex="1">
           <mxGeometry height="80" width="180" x="2000" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F8F5;strokeColor=#1ABC9C;strokeWidth=2;fontSize=9;align=left;verticalAlign=top;" value="í ¼í¾¯ Quality Gates:&lt;br&gt;&lt;br&gt;High conf (over 0.9): âœ“ Auto-accept&lt;br&gt;Medium (0.7-0.9): âš ï¸ Review&lt;br&gt;Low (under 0.7): â›” Manual verify&lt;br&gt;&lt;br&gt;Coverage target: over 95%&lt;br&gt;Quality threshold: over 85" vertex="1">
-          <mxGeometry height="110" width="180" x="1750" y="790" as="geometry" />
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-63" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#8E44AD;" target="mJ2UAQKs1bYo3PrSVbFP-57">
           <mxGeometry relative="1" as="geometry">
@@ -308,6 +303,12 @@
               <mxPoint x="1518" y="80" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d0Xz0Q6tXGQRUFUr1ld3-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;b&gt;Process Flow:&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Load template&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. For each DSL query:&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Call Smart API&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;- Get content&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;&amp;nbsp;- Track confidence&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. Map data to placeholders&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. Generate draft&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="140" x="1680" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="d0Xz0Q6tXGQRUFUr1ld3-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;font-size: 9px; text-align: left;&quot;&gt;Quality Gates:&lt;/b&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;br style=&quot;font-size: 9px; text-align: left;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;High conf (over 0.9): Auto-accept&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Medium (0.7-0.9): Needs Review&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Low (under 0.7): Manual verify&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Coverage target: over 95%&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quality threshold: over 85&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="1700" y="776" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
