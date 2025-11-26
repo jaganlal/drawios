@@ -199,9 +199,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-64" connectable="0" parent="mJ2UAQKs1bYo3PrSVbFP-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#8E44AD;fontStyle=1;backgroundColor=#FFFFFF;" value="Draft Report" vertex="1">
+        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-64" connectable="0" parent="mJ2UAQKs1bYo3PrSVbFP-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#8E44AD;fontStyle=1;backgroundColor=#FFFFFF;" value="&amp;nbsp; &amp;nbsp;Draft Report&amp;nbsp; &amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="-0.2" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-65" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#E74C3C;" target="mJ2UAQKs1bYo3PrSVbFP-60">
