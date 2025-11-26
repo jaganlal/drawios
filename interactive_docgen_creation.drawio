@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Interactive Flow" id="Wp32OviOYdL-q1vHaB_I">
-    <mxGraphModel dx="2593" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,8 +108,12 @@
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F8F5;strokeColor=#1ABC9C;strokeWidth=2;fontSize=9;align=left;verticalAlign=top;" value="í ½í²¾ Key Design:&lt;br&gt;&lt;br&gt;Dual format storage&lt;br&gt;(hierarchical + flat)&lt;br&gt;enables flexible&lt;br&gt;retrieval patterns" vertex="1">
           <mxGeometry height="120" width="130" x="1340" y="1230" as="geometry" />
         </mxCell>
-        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-34" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#3498DB;" target="mJ2UAQKs1bYo3PrSVbFP-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mJ2UAQKs1bYo3PrSVbFP-34" edge="1" parent="1" source="mJ2UAQKs1bYo3PrSVbFP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#3498DB;exitX=0.331;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="mJ2UAQKs1bYo3PrSVbFP-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mJ2UAQKs1bYo3PrSVbFP-35" connectable="0" parent="mJ2UAQKs1bYo3PrSVbFP-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#2874A6;fontStyle=1;backgroundColor=#FFFFFF;" value="Extracted&lt;br&gt;Content" vertex="1">
           <mxGeometry relative="1" x="-0.2" as="geometry">
